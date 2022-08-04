@@ -17,7 +17,7 @@ const events = [
 	{
 		id: "b",
 		start: "2022-08-02T06:00:00",
-		end: "2022-08-03T12:00:00",
+		end: "2022-08-02T12:00:00",
 		title: "タイトル：B",
 		description: "内容：B",
 		backgroundColor: "green",
