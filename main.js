@@ -49,7 +49,8 @@ const events = [
 
 		// URL
 		// url: 'http://google.com/'	//グーグル
-		url: 'https://www.youtube.com/'	//YouTube
+		// url: 'https://www.youtube.com/'	//YouTube
+		url: 'https://m.youtube.com/c/TMSOMovie'	//YouTubeチャンネル
 
 	},
 ];
